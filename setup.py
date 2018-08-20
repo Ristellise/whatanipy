@@ -11,7 +11,7 @@ setuptools.setup(
     description="Whatanime.ga python wrapper.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/example-project",
+    url="https://github.com/Ristellise/whatanipy",
     packages=setuptools.find_packages(),
     classifiers=(
         "Programming Language :: Python :: 3",
