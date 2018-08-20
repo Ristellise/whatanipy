@@ -2,7 +2,7 @@
 ### Whatanime.ga Python wrapper.
 
 ### Example
-```
+```py
 In [1]: import whatanime
    ...: whatclass = whatanime.whatanime('API KEY')
    ...: import base64
